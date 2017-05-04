@@ -1,1 +1,1 @@
-O Workshop de Git é um fracasso!
+O Workshop de Git é muito fixe, apesar de um fracasso!
