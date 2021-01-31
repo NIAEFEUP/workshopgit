@@ -1,6 +1,6 @@
 include myAuxiliarFile
 
-print("hello world")
+print("Olá mundo, tudo joia?")
 
 
 def main():
